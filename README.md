@@ -10,3 +10,4 @@ config files used for spectrwm setup
  - spectrwm
  - scrot
  - xclip
+ - st
